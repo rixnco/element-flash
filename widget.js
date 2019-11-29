@@ -1,3 +1,4 @@
+
 cpdefine("inline:com-chilipeppr-elem-flashmsg", ["chilipeppr_ready"], function () {
     //console.log("Inside of define for com-chilipeppr-elem-flashmsg");
     return {
